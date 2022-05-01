@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Bhardwaj.
 - 👀 I’m interested in Full Stack Software Development and brainstorming highly innovative business solutions. 
-- 🌱 I’m currently learning Font-end Development.
+- 🌱 My current work experience is in Font-end Development.
 - 📫 How to reach me - Mail : ayush.b.1998@gmail.com, linkedin : https://www.linkedin.com/in/ayushbhardwaj1998/ 
 
 <!---
